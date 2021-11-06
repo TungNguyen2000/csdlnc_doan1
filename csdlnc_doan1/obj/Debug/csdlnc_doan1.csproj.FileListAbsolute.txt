@@ -1,0 +1,11 @@
+D:\bachtung\source\repos\csdlnc_doan1\bin\Debug\csdlnc_doan1.exe.config
+D:\bachtung\source\repos\csdlnc_doan1\bin\Debug\csdlnc_doan1.exe
+D:\bachtung\source\repos\csdlnc_doan1\bin\Debug\csdlnc_doan1.pdb
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.csproj.AssemblyReference.cache
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.Properties.Resources.resources
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.csproj.GenerateResource.cache
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.csproj.CoreCompileInputs.cache
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.exe
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.pdb
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.MainForm.resources
+D:\bachtung\source\repos\csdlnc_doan1\obj\Debug\csdlnc_doan1.createForm.resources
